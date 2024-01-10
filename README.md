@@ -9,3 +9,6 @@ Payments - Bidder pays auctioneer with credit information
 Bidding - The auctioneer sets a base bid, during the bidding process other users will be able to bid up for the item based on the current top bid.  The current top bid is stored separately after new top bid is made.
 Create Item Listing - An auctioneer will be able to list an item in their possession for auction at a starting bid of their choice.
 Auction Modification - Only admins are able to modify auctions in case of inappropriate listings. Admins will have their own special ID for access.
+
+ER Diagram: 
+[![](https://cdn.discordapp.com/attachments/1186726113855160411/1194716424996929618/image.png?ex=65b15d60&is=659ee860&hm=dbc87368dc0920b1c6efc26388c0afdf30be159f22657b622e01832ad69b7b68&)]
